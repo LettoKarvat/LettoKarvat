@@ -2,7 +2,7 @@
 
 **Desenvolvedor de Sistemas Pleno · Integrações ERP e automação**
 
-Atuo como desenvolvedor PJ na FAIVES, com dedicação à empresa desde julho de 2026. Comecei a colaborar em projetos em 2025, em paralelo à minha atuação como técnico de TI na Motherson Brasil.
+Atuo como desenvolvedor PJ na FAIVES, com dedicação à empresa desde julho de 2026. Comecei a colaborar em projetos em 2025, em paralelo à minha atuação como técnico de TI na PKC Group.
 
 Minha trajetória em tecnologia começou em 2021, como estagiário de TI, seguida da efetivação como técnico em janeiro de 2022. Hoje meu foco é o desenvolvimento de aplicações que conectam interfaces, regras de negócio e dados da operação.
 
